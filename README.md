@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joeychrys and I'm a student at the University of Texas at Dallas
-- 👀 I’m interested in Data Science and DevOps.
-- 🌱 I’m currently learning Docker
+- 👀 I’m interested in Full Stack Development.
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Web App ideas.
 - 📫 How to reach me joeychrys@outlook.com
