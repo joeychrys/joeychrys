@@ -1,4 +1,4 @@
-## Hello, I'm Joey 👋
+# Hello, I'm Joey 👋
 
 ## About Me
 - 📚 I'm a student at the University of Texas at Dallas
