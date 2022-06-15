@@ -1,7 +1,7 @@
 ### Hello, I'm Joey 👋
 ### About Me
 ---
-- 📚 I'm a student at the University of Texas at Dallas
+- 📚 Alumi from the University of Texas at Dallas
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Web App ideas
