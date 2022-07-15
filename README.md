@@ -3,7 +3,7 @@
 ---
 - 📚 Alumi from the University of Texas at Dallas
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Svelte
 - 💞️ I’m looking to collaborate on Web App ideas
 - 📫 Add me on Discord: yoyojoe#5510
 ### My GitHub Stats
