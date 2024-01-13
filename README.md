@@ -1,10 +1,9 @@
 ### Hello, I'm Joey 👋
 ### About Me
 ---
-- 📚 Alumi from the University of Texas at Dallas
+- 📚 University of Texas at Dallas Alumni
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning Svelte
-- 💞️ I’m looking to collaborate on Web App ideas
+- 🌱 I’m currently learning ML
 - 📫 Add me on Discord: yoyojoe#5510
 ### My GitHub Stats
 ---
