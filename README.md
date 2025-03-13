@@ -3,8 +3,7 @@
 ---
 - 📚 University of Texas at Dallas Alumni
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning ML
-- 📫 Add me on Discord: yoyojoe#5510
+- 🌱 I’m currently learning pydanticAI
 ### My GitHub Stats
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joeychrys&show_icons=true&theme=radical)
